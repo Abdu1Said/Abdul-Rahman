@@ -3,7 +3,7 @@
 I am passionate about **cybersecurity**, **ethical hacking**, and **DevOps**. I enjoy learning new technologies and applying them in real-world projects. Here's a little bit about me:
 
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript, Python, Java
+- **Languages**: Java,Pythion
 - **Frameworks**: Node.js, Django, React
 - **Cybersecurity Tools**: Wireshark, Metasploit, Nmap
 - **Cloud Platforms**: AWS, Azure, GCP
